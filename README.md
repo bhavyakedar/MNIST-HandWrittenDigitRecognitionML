@@ -16,4 +16,5 @@ The MNIST-DATASETS (.csv files) required in this project can be dowloaded from t
  --> Machine Learning Course offered by Standford University at Coursera : https://www.coursera.org/learn/machine-learning
  
  Bhavya Kedar,
+ 
  201901028@daiict.ac.in | bhavyakedar24x7@gmail.com
